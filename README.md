@@ -27,18 +27,6 @@ My mission? To transform visionary ideas into seamless, cross-platform experienc
 **Styling & UI**  
 `Styled Components` · `Reanimated`
 
-**Backends & APIs**  
-`GraphQL` · `Firebase`
-
-**Testing**  
-`Jest`
-
----
-
-## 📊 My GitHub Galaxy
-
-Explore my code, contribute to open-source, or just vibe with my latest projects here on GitHub. Every repo is a constellation in my dev universe.
-
 ---
 
 ## 🚀 Ready to Build the Next Big Thing?
